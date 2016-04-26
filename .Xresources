@@ -1,0 +1,12 @@
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+XTerm*font: -*-terminus-medium-*-*-*-16-*-*-*-*-*-iso10646-*
+xterm*VT100.geometry: 80x25
+xterm*utf8: 2
+XTerm*cursorBlink: true
