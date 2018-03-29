@@ -16,9 +16,7 @@
 #
 #xfce-mcs-manager &
 
-xset -b
-compton -CGb
-sh /home/fmm/Scripts/dual.sh &
-( sleep 1s && tint2 ) &
+nitrogen --restore &
+tint2 &
+xcompmgr &
 redshift &
-albert &
